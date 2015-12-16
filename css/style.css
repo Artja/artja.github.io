@@ -14,15 +14,6 @@ body {
 	-webkit-box-shadow: -1px -1px 21px 4px rgba(77,77,77,1);
 	-moz-box-shadow: -1px -1px 21px 4px rgba(77,77,77,1);
 	box-shadow: -1px -1px 21px 4px rgba(77,77,77,1);
-
-	background: rgba(0,95,179,1);
-	background: -moz-linear-gradient(top, rgba(0,95,179,1) 0%, rgba(0,62,128,1) 100%);
-	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,95,179,1)), color-stop(100%, rgba(0,62,128,1)));
-	background: -webkit-linear-gradient(top, rgba(0,95,179,1) 0%, rgba(0,62,128,1) 100%);
-	background: -o-linear-gradient(top, rgba(0,95,179,1) 0%, rgba(0,62,128,1) 100%);
-	background: -ms-linear-gradient(top, rgba(0,95,179,1) 0%, rgba(0,62,128,1) 100%);
-	background: linear-gradient(to bottom, rgba(0,95,179,1) 0%, rgba(0,62,128,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005fb3', endColorstr='#003e80', GradientType=0 );
 }
 
 #my-navbar ul li a {
@@ -30,7 +21,7 @@ body {
     font-weight: bold;
     font-size: 15px;
     color: #eee;
-    border-bottom: 4px solid #003e80;
+    border-bottom: 4px solid #034196;
 }
 
 #my-navbar ul li a.active, #my-navbar ul li a:hover {
